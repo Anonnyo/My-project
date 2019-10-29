@@ -1,1 +1,4 @@
-This is the first Github test upload :)
+This is the first Github test upload
+
+Gold will rust 
+Diamond will be dust
